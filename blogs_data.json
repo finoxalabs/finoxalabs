@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 2,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 3,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 4,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 5,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 6,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 7,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 8,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 9,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 10,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 11,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 12,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 13,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 14,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 15,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 16,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 17,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 18,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 19,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 20,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 1,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 2,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 3,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 4,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 5,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 6,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 7,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 8,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 9,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 10,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 11,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 12,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 13,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 14,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 15,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 16,
+        "title": "Blog Post 1",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 17,
+        "title": "Blog Post 2",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 18,
+        "title": "Blog Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-3.jpg",
+        "date": "2024-05-13",
+        "author": "Bob Johnson",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 19,
+        "title": "Blog Post 4",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "img/blog_images/Frame-2.jpg",
+        "date": "2024-05-14",
+        "author": "Jane Smith",
+        "blog_url": "about.html"
+    },
+    {
+        "id": 20,
+        "title": "Blog Post 5",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "img/blog_images/Frame-1.jpg",
+        "date": "2024-05-15",
+        "author": "Vaibhav Wagaskar",
+        "blog_url": "about.html"
+    }
+]
