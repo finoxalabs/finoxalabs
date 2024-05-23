@@ -165,4 +165,17 @@
     font-size: 15px;
 }
 
+@media only screen and (max-width: 768px){
+    .all-blogs-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .blog-card {
+
+        width: auto;
+    }
+}
+
 

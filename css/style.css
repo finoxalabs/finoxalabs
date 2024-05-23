@@ -549,16 +549,3 @@ h6,
 .copyright a:hover {
     color: var(--primary);
 }
-
-@media (max-width: 767.98px) {
-    .all-blogs-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .blog-card {
-        width: 100%;
-        max-width: 300px; /* Adjust the max-width as needed */
-    }
-}
